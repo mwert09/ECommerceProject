@@ -1,3 +1,6 @@
+## NOTE
+This project is not mine. It belongs to Andrei Neagoie and Yihua Zhang.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
